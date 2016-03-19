@@ -1,6 +1,6 @@
 Name:		virt-what
 Version:	1.14
-Release:	3
+Release:	4
 Summary:	Detect if we are running in a virtual machine
 License:	GPLv2+
 Group:		Emulators
