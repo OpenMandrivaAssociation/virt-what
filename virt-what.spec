@@ -4,7 +4,7 @@ Release:	2
 Summary:	Detect if we are running in a virtual machine
 License:	GPLv2+
 Group:		Emulators
-URL:		http://people.redhat.com/~rjones/virt-what/
+URL:		https://people.redhat.com/~rjones/virt-what/
 Source0:	http://people.redhat.com/~rjones/virt-what/files/%{name}-%{version}.tar.gz
 
 # virt-what script uses dmidecode and getopt (from util-linux).
