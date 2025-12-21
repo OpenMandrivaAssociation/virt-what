@@ -14,6 +14,11 @@ Requires:	dmidecode
 %endif
 
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 virt-what is a shell script which can be used to detect if the program
 is running in a virtual machine.
